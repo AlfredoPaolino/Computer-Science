@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544737715 source:c:\users\alfredo\desktop\esercizi c\calimera\bath\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

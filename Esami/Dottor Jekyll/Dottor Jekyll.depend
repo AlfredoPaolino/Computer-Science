@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545994307 source:c:\users\alfredo\desktop\esercizi c\calimera\dottor jekyll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

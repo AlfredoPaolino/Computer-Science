@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552669611 source:c:\users\alfredo\desktop\esercizi c\calimera\gara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

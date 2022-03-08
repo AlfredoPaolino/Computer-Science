@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544829208 source:c:\users\alfredo\desktop\esercizi c\calimera\9.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

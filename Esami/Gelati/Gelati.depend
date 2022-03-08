@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545905888 source:c:\users\alfredo\desktop\esercizi c\calimera\gelati\main.c
+	<stdio.h>
+	<stdlib.h>
+

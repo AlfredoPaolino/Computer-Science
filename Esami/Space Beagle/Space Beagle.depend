@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546259165 source:c:\users\alfredo\desktop\esercizi c\calimera\space beagle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

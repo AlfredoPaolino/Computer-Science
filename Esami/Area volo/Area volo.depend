@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547130334 source:c:\users\alfredo\desktop\esercizi c\calimera\area volo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
